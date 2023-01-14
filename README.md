@@ -1,3 +1,3 @@
-# 911-Project
-This program was written in python using jupyter notebooks. It reads in a CSV file for various different 911 calls and visualizes the data in many different forms 
-using graphs and heatmaps. Relevant libraires include: numpy, pandas, matplotlib, and seaborn. 
+# Python For Data Science Projects
+These program were written in python using jupyter notebooks. Relevant libraires include: numpy, pandas, matplotlib, and seaborn. 
+The CSV file for the 911 calls project is provided
