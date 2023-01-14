@@ -1,3 +1,3 @@
 # Python For Data Science Projects
-These program were written in python using jupyter notebooks. Relevant libraires include: numpy, pandas, matplotlib, and seaborn. 
+These programs were written in python using Jupyter Notebooks. Relevant libraires include: numpy, pandas, matplotlib, seaborn, and yfinance. 
 The CSV file for the 911 calls project is provided
